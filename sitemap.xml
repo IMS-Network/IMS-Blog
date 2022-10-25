@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://blog.ims-network.org/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://blog.ims-network.org/</loc>
+</url>
+<url>
+<loc>https://blog.ims-network.org/authors/thefourcraft/</loc>
+</url>
+<url>
+<loc>https://blog.ims-network.org/tags/fivem/</loc>
+</url>
+<url>
+<loc>https://blog.ims-network.org/tags/minecraft/</loc>
+</url>
+<url>
+<loc>https://blog.ims-network.org/tags/servers/</loc>
+</url>
+<url>
+<loc>https://blog.ims-network.org/tags/updates/</loc>
+</url>
+<url>
+<loc>https://blog.ims-network.org/update-plan-2022-q4/</loc>
+<lastmod>2022-10-25T12:38:32+03:00</lastmod>
+<image:image>
+<image:loc>https://blog.ims-network.org/media\posts\1/Update-2022-Q4.png</image:loc>
+<image:title><![CDATA[תמונת המחשה לפוסט הבלוג על עדכוני סוף שנה של הארגון שלנו]]></image:title>
+</image:image>
+</url>
+</urlset>
