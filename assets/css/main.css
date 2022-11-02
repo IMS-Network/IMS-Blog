@@ -2570,13 +2570,16 @@ comments-wrapper {
   padding: 0.9714285714rem 1.4571428571rem;
 }
 .msg--highlight {
-  background-color: #fff7e5;
+  border-radius: 25px;
+  background-color: #916600;
 }
 .msg--info {
-  background-color: #d9edf7;
+  border-radius: 25px;
+  background-color: #003e5d;
 }
 .msg--success {
-  background: #d5efc2;
+  border-radius: 25px;
+  background: #245601;
 }
 
 .dropcap:first-letter {
