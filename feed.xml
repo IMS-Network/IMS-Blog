@@ -1,14 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>IMS - Blogs</title>
     <link href="https://blog.ims-network.org/feed.xml" rel="self" />
     <link href="https://blog.ims-network.org" />
-    <updated>2022-11-02T13:17:36+02:00</updated>
+    <updated>2022-11-07T15:42:25+02:00</updated>
     <author>
         <name>thefourCraft</name>
     </author>
     <id>https://blog.ims-network.org</id>
 
+    <entry>
+        <title>פריצת מידע בפייבאם</title>
+        <author>
+            <name>thefourCraft</name>
+        </author>
+        <link href="https://blog.ims-network.org/fivem-data-exposed/"/>
+        <id>https://blog.ims-network.org/fivem-data-exposed/</id>
+        <media:content url="https://blog.ims-network.org/media/posts/3/fivem-data-exposed.png" medium="image" />
+            <category term="שרתים"/>
+            <category term="פייבאם"/>
+
+        <updated>2022-11-07T15:42:25+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.ims-network.org/media/posts/3/fivem-data-exposed.png" alt="פריצת מידע בפייבאם תמונת נושא" />
+                    ב 3.11.2022 האקר שפעל כנגד הארגון פרץ לחשבון מנהל וניצל את הגישות שלו בשביל להוציא מידע רגיש על משתמשי הפורום. ארגון פייבאם הודיע על מתוך מחויביות לפרטיות ואבטחה ולכן הם הודיעו על מה שקרה APIהוא פרץ למשתמש מנהל ישן, שהנהלת פייבאם שכחו למחוק. בעזרת המשתמש&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.ims-network.org/media/posts/3/fivem-data-exposed.png" class="type:primaryImage" alt="פריצת מידע בפייבאם תמונת נושא" /></p>
+                <p class="align-right">ב 3.11.2022 האקר שפעל כנגד הארגון פרץ לחשבון מנהל וניצל את הגישות שלו בשביל להוציא מידע<br>רגיש על משתמשי הפורום.<br>ארגון פייבאם הודיע על מתוך מחויביות לפרטיות ואבטחה ולכן הם הודיעו על מה שקרה</p>
+<h3 class="align-right">?איך ההאקר גנב את המידע</h3>
+<p class="align-right"><a href="https://docs.discourse.org/" target="_blank" rel="noopener noreferrer">API</a>הוא פרץ למשתמש מנהל ישן, שהנהלת פייבאם שכחו למחוק. בעזרת המשתמש הוא קיבל גישה ל<br><a href="https://www.discourse.org/" target="_blank" rel="noopener noreferrer">Discourse</a> הקשור למערכת הפורומים <br>מכיל מידע פשוט, ולא מכיל סיסמאות או מידע אישי <a href="https://www.discourse.org/" target="_blank" rel="noopener noreferrer">Discourse</a> של <a href="https://docs.discourse.org/" target="_blank" rel="noopener noreferrer">API</a>ה<br>המשמעות היא שההאקר לא היה יכול לקבל גישה לסיסמאות או לכל שאר המערכות</p>
+<h3 class="align-right">?איזה מידע נגנב</h3>
+<blockquote>
+<p class="align-right">חבל שמישהו הצליח לגשת לחשבון מנהל לא בשימוש כדי לגנוב נתוני חשבון מהפורומים שלנו</p>
+<p><a href="https://forum.cfx.re/t/incident-report-account-emails-and-server-keys-were-exposed-to-a-malicious-actor/4943211" target="_blank" rel="noopener noreferrer">frenzy-renegade</a></p>
+</blockquote>
+<p class="align-right">Keymaster עם זאת, התוקף הצליח להשיג מפתחות רישיון דרך פורטל ניהול פנימי, למערכת<br>שאילו הייתה גישה מחשבון המנהל שנפרץ, אף על פי שהנהלת פייבאם אמרה<br>שנתוני החשבון מוגבלים הוא כן הצליח לחשוף את</p>
+<p class="align-right">שם משתמש - שם המשתמש שלכם בפורום של פייבאם<br>כתובת דוא"ל - כתובת האימייל שלכם בפורום של פייבאם<br>כתובות אייפי - כתובת האייפי שאיתה ביצעם הרשמה למשתמש, וכתובת האייפי שאיתה התחברתם<br>מפתחות רישיון שרת - מפתחות אימות שרת שאתם מקבלים בפאנל</p>
+<h3 class="align-right">?מה צריך לעשות</h3>
+<h5 class="msg msg--info align-right">המידע שרשום פה הוא דעה אישית שלנו</h5>
+<p class="msg msg--highlight  align-right">להחליף סיסמא בפורטלים ובמערכות פייבאם<br><a href="https://keymaster.fivem.net/" target="_blank" rel="noopener noreferrer">Keymaster</a> להיכנס לפאנל<br>להחליף את כל המפתחות של השרתים שלכם</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>דומיין .ישראל החדש כל מה שצריך לדעת</title>
         <author>
@@ -16,6 +53,7 @@
         </author>
         <link href="https://blog.ims-network.org/new-idn/"/>
         <id>https://blog.ims-network.org/new-idn/</id>
+        <media:content url="https://blog.ims-network.org/media/posts/2/new-israli-domain-name.png" medium="image" />
             <category term="אינטרנט"/>
 
         <updated>2022-11-02T13:17:36+02:00</updated>
@@ -27,7 +65,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://blog.ims-network.org/media/posts/2/new-israli-domain-name.png" alt="הדומיין החדש של ישראל נפתח, והתמונה שעיצבנו מסמלת את הגאווה הישראלית בפתיחת מתחת השמות הראשון בעולם בעברית" />
+                    <p><img src="https://blog.ims-network.org/media/posts/2/new-israli-domain-name.png" class="type:primaryImage" alt="הדומיין החדש של ישראל נפתח, והתמונה שעיצבנו מסמלת את הגאווה הישראלית בפתיחת מתחת השמות הראשון בעולם בעברית" /></p>
                 <p class="align-right">כן, יש מרחב שמות מתחם חדש בעברית: .ישראל<br><a href="https://www.isoc.org.il/" target="_blank" rel="noopener noreferrer">איגוד האינטרנט הישראלי</a>, מרחיב את אפשרות השפות ברישום שמות מתחם (דומיינים), ובקרוב יפתח לציבור הרחב גם את האפשרות לרשום שמות מתחם בעברית, בסיומת .ישראל,  בנוסף למרחב הקיים il. בסיומת</p>
 <h3 class="align-right">מה התנאים לרישום דומיין .ישראל</h3>
 <p class="align-right">איגוד האינטרנט הישראלי (ע"ר 580299543) ("<strong>האיגוד</strong>") הוא הגוף המנהל את המרחב העליון של ישראל בעברית באינטרנט (".ישראל"), ואת מרשם שמות המתחם הפועל במסגרתו<br>:לכן בהזמנת הדומיין אתם כפופים לתנאים שלהם</p>
@@ -69,6 +107,7 @@
         </author>
         <link href="https://blog.ims-network.org/update-plan-2022-q4/"/>
         <id>https://blog.ims-network.org/update-plan-2022-q4/</id>
+        <media:content url="https://blog.ims-network.org/media/posts/1/Update-2022-Q4.png" medium="image" />
             <category term="שרתים"/>
             <category term="פייבאם"/>
             <category term="עדכונים"/>
@@ -83,7 +122,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://blog.ims-network.org/media/posts/1/Update-2022-Q4.png" alt="תמונת המחשה לפוסט הבלוג על עדכוני סוף שנה של הארגון שלנו" />
+                    <p><img src="https://blog.ims-network.org/media/posts/1/Update-2022-Q4.png" class="type:primaryImage" alt="תמונת המחשה לפוסט הבלוג על עדכוני סוף שנה של הארגון שלנו" /></p>
                 <h1 class="align-center">ברוכים הבאים לקהילת הגיימינג שלנו</h1>
 <p class="align-right">למי שמבקר באתר הזה פעם ראשונה, אז זה אתר הבלוגים שלנו פה אנחנו כותבים בלוגים<br>פה אתם מקבלים הצצה קטנה לאופן הפעילות והפיתוח שלנו<br>אנחנו תמיד בעד שקיפות ושיתוף מידע</p>
 <h2 class="align-right">מזה תוכנית עדכונים</h2>
