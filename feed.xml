@@ -3,12 +3,59 @@
     <title>IMS - Blogs</title>
     <link href="https://blog.ims-network.org/feed.xml" rel="self" />
     <link href="https://blog.ims-network.org" />
-    <updated>2022-11-25T18:05:00+02:00</updated>
+    <updated>2022-12-04T23:46:29+02:00</updated>
     <author>
         <name>thefourCraft</name>
     </author>
     <id>https://blog.ims-network.org</id>
 
+    <entry>
+        <title>זה הדפלה ענקית QB-Core</title>
+        <author>
+            <name>thefourCraft</name>
+        </author>
+        <link href="https://blog.ims-network.org/qb-core-leak/"/>
+        <id>https://blog.ims-network.org/qb-core-leak/</id>
+        <media:content url="https://blog.ims-network.org/media/posts/6/QB-Core-Leak.png" medium="image" />
+            <category term="פייבאם"/>
+            <category term="מידע"/>
+
+        <updated>2022-12-04T23:46:29+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.ims-network.org/media/posts/6/QB-Core-Leak.png" alt="" />
+                    <p class="align-right">היא הדלפה אחת ענקית של קבצים משרתים שונים QB-Core מערכת הסקריפטים הפופולרית</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.ims-network.org/media/posts/6/QB-Core-Leak.png" class="type:primaryImage" alt="" /></p>
+                <p class="align-right">היא הדלפה אחת ענקית של קבצים משרתים שונים QB-Core מערכת הסקריפטים הפופולרית</p>
+
+<h2 class="align-right">?QB-Core מזה</h2>
+<p class="align-right">זה מערכת המשלבת קבצים בשביל שרתי פייבאם, נכון להיום בשוק יש שתי מערכות QB-Core<br>המערכת השנייה החדשה יותר ESX המערכת הראשונה והזאת שקיימת מלפני כמה שנים נקראת<br>המערכת הזאת נחשבה לטובה יותר בגלל שהיא הקלה על מפתחי השרתים QB-Core נקראת</p>
+<h3 class="align-right">?QB-Core למה אנשים בחרו ב</h3>
+<p class="align-right">המערכת נתנה לבעלי שרתים שקט נפשי ESX הייתה מערכת קבצים יותר מודרנית מאשר QB-Core<br>הייתה יעילה יותר והכילה יותר סקריפטים מוכנים מראש QB-Core המערכת<br>אנשים אהבו את העיצובים המודרנים ואת תהליך ההתקנה הפשוט שלה והמון בעלי שרתים עברו להשתמש במערכת החדשה והמתקדמת<br>בנוסף לכך יוצר סקריפטים החלו גם לתמוך במערכת ולבנות כלכלה מסביב</p>
+<h4 class="align-right">סימני הדלפה והוכחות</h4>
+<p class="align-right">עבדו על הקבצים שלהם בפרוייקט קוד פתוח בפלטפורמה <a href="https://github.com/qbcore-framework/qb-core" target="_blank" rel="noopener noreferrer">גיטהאב</a> QB-Core בגלל שמפתחי<br>להמון מפתחים שהסתכלו על הקוד שלהם היה ברור שמדובר בהעתקה<br><span class="username-3JLfHz userTagUsernameNoNickname-2e_xaO userTagUsernameBase-3Nfr5j">הוא הדלפה אחת ענקית QB-Core כתב כי Linden</span><span class="userTagDiscriminatorNoNickname-2HLaIE discrimBase-KriZSj">#6343 </span>בפוסט קהילה המפתח המוערך</p>
+<figure class="post__image" ><img loading="lazy" src="https://blog.ims-network.org/media/posts/6/Linden6343-server-announcement-about-QB.png" alt="Linden#6343 announcement about QB Leak" width="904" height="166" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog.ims-network.org/media/posts/6/responsive/Linden6343-server-announcement-about-QB-xs.png 300w ,https://blog.ims-network.org/media/posts/6/responsive/Linden6343-server-announcement-about-QB-sm.png 480w ,https://blog.ims-network.org/media/posts/6/responsive/Linden6343-server-announcement-about-QB-md.png 768w ,https://blog.ims-network.org/media/posts/6/responsive/Linden6343-server-announcement-about-QB-lg.png 1024w ,https://blog.ims-network.org/media/posts/6/responsive/Linden6343-server-announcement-about-QB-xl.png 1360w ,https://blog.ims-network.org/media/posts/6/responsive/Linden6343-server-announcement-about-QB-2xl.png 1600w">
+<figcaption >Linden#6343 Announcement About QB Leak</figcaption>
+</figure>
+<p class="align-right">הוא אחד מהמפתחים המוערכים ביותר בקהילת הפייבאם <a href="https://discord.gg/overextended" target="_blank" rel="noopener noreferrer">Linden#6343</a><br>הוא אחד ממובלי הפרוייקט הראשי של פייבאם ותרם המון קוד למעל 100 פרוייקטים אחרים<br>בנוסף הוא גם פיתח את המערכת הכי קריטית לחיבור השרת שלכם אם מסדי הנתונים שלכם<br><span class="mr-2 flex-self-stretch"><a href="https://github.com/overextended/oxmysql" target="_blank" rel="noopener noreferrer">oxmysql</a></span> לעוד מידע על המערכת</p>
+<p class="align-right">אבל לא צריך להיות מפתח חכם בשביל לראות שהקוד שלהם מודלף, בגלל שהם עשו מספר טעיות בהעתקת הקוד שלהם</p>
+<figure class="post__image"><img loading="lazy"  src="https://blog.ims-network.org/media/posts/6/QB-Leak-Prof.png" alt="QB Leak" width="1499" height="418" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog.ims-network.org/media/posts/6/responsive/QB-Leak-Prof-xs.png 300w ,https://blog.ims-network.org/media/posts/6/responsive/QB-Leak-Prof-sm.png 480w ,https://blog.ims-network.org/media/posts/6/responsive/QB-Leak-Prof-md.png 768w ,https://blog.ims-network.org/media/posts/6/responsive/QB-Leak-Prof-lg.png 1024w ,https://blog.ims-network.org/media/posts/6/responsive/QB-Leak-Prof-xl.png 1360w ,https://blog.ims-network.org/media/posts/6/responsive/QB-Leak-Prof-2xl.png 1600w"></figure>
+<p class="align-right">כפי שאפשר לראות היוצרים שחכו לשנות את התיאור של חלק מהדברים שהם העתיקו<br>Happy and healthy 2020 &lt;3 Lua Leaks אז הם השאירו את השורות העלה בטעות<br>בגלל שמדובר בקוד פתוח אפשר להחזיר גרסאות אחורה ופשוט לראות את <a href="https://github.com/qbcore-framework/qb-core/blob/3948415301b8401d7f46b529f6d33e0aa53bd01e/qb-core/shared.lua#L222-L225" target="_blank" rel="noopener noreferrer">השינויי</a></p>
+<p class="align-right">כתבו את החלק הזה הם העתיקו אותו QB-Core השורות האלה מוכיחות שכאשר היוצרים של<br>סביר להניח שגם היו חלקים אחרים, שהם כן הצליחו להסתיר אבל ההוכחה הזאת הספיקה להרבה QB-Core יוצרים וכתוצאה מכך הם הפסיקו לעבוד אם</p>
+<h4 class="align-right">הוכחות העתקה נוספות</h4>
+<p class="align-right">בחשד כי הם לקחו עוד קבצים QB-Core המון חברי קהילה התחילו לחקור את<br>הם לא היו צריכים לחפש הרבה זמן כי בדחיפת הקוד<br><a href="https://github.com/qbcore-framework/qb-customs/commit/7b904be51d393c600dd73984796f25eb29eb7095" target="_blank" rel="noopener noreferrer">7b904be51d393c600dd73984796f25eb29eb7095</a><br>QB-Core אפשר לראות העתקות נוספות על ידי צוות<br>NoPixel הפעם גם היה אפשרי לשייך את מקור העתקה לשרת הפופאלרי<br>העתיקו את הקוד הזה ופשוט ליטשו QB-Core שגם הוא מודלף על בסיס שבועי, המתאכנתים של<br>חלקים כדיי שלא יראו, אבל הם שוב שחכו שמדובר בפרוייקט קוד פתוח ואפשר לראות את הכל<br><a href="https://github.com/swxy/NoPixelServer/tree/main/resources/np-bennys" target="_blank" rel="noopener noreferrer">זה מקור ההדלפה שהם השתמשו בואו</a></p>
+<p class="align-right"><code>core/client/cl_bennys.lua</code> וגם בתוך <code>cl_bennys.lua</code> אם ניסכל על הקבצים בתוך<br>נוכל לראות כי צורת הקבצים שלהם דומה<br>אפשר להיכנס קצת יותר לעומק ולראות שבדחיפת הקוד<br><a href="https://github.com/qbcore-framework/qb-customs/compare/7b904be51d393c600dd73984796f25eb29eb7095...main" target="_blank" rel="noopener noreferrer">7b904be51d393c600dd73984796f25eb29eb7095</a><br>היוצרים פשוט שינו קצת מהעיצוב וכל השאר נשאר דומה מאוד</p>
+<p class="align-right">במיוחד על דחיפת הקוד QB-Core בואו נמשיך להסתכל על הקוד של<br><a href="https://github.com/qbcore-framework/qb-vehicleshop/tree/5da07cf7b24c170404e6556cd080503f81d9d6f8" target="_blank" rel="noopener noreferrer">5da07cf7b24c170404e6556cd080503f81d9d6f8</a><br>בקובץ הראשי! העמוד הראשון שכולם רואים אפשר לראות שהם מציינים בטעות העתקה ממקום אחד<br>אף על פי שהם אומרים תודה, היוצר המקורי מעולם לא אישר להם להשתמש בקוד שלו<br>קנו את הסקריפט והדליפו אותו פשוט QB-Core היוצרים של <br>אפשר גם לראות שהם לקחו תמונות <a href="https://www.youtube.com/watch?v=iyuAa1U4bRM&amp;t=41s" target="_blank" rel="noopener noreferrer">מסרטון המציג את הסקריפט</a><a href="https://www.youtube.com/watch?v=iyuAa1U4bRM&amp;t=41s" target="_blank" rel="noopener noreferrer"><br></a></p>
+<h4 class="align-right">לסיכום</h4>
+<p class="align-right">מועתק כמו רוב הדברים בקהילת הפייבאם, אנשים לא מעריכים פיתוח קוד אותנטי ומקורי QB-Core<br>מעדיפים להעתיק קוד ממקומות אחרים ולעשות כסף קל על מנהלי שרתים ללא נסיון בתכנות<br>הדלפת קבצים מהווה זילזול במפתחים, ואם אתם מנסים להרוויח כסף בגלל שאתם יודעים להעביר קבצים ממקום למקום אז תתביישו לכם!<br>QB-Coreתתמכו ביוצרים שבאמת כותבים סקריפטים יחודיים ומקוריים והפסיקו להשתמש ב<br>בשביל לתמוך במתכנתים אמיתיים ESX עברו למערכת</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>סטאטוס עדכונים חודש נובמבר</title>
         <author>
