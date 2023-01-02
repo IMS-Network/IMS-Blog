@@ -3,12 +3,171 @@
     <title>IMS - Blogs</title>
     <link href="https://blog.ims-network.org/feed.xml" rel="self" />
     <link href="https://blog.ims-network.org" />
-    <updated>2022-12-31T12:34:27+02:00</updated>
+    <updated>2023-01-02T21:39:50+02:00</updated>
     <author>
         <name>thefourCraft</name>
     </author>
     <id>https://blog.ims-network.org</id>
 
+    <entry>
+        <title>שנת 2022 במספרים ואנליטיקה</title>
+        <author>
+            <name>thefourCraft</name>
+        </author>
+        <link href="https://blog.ims-network.org/analytics-2022/"/>
+        <id>https://blog.ims-network.org/analytics-2022/</id>
+        <media:content url="https://blog.ims-network.org/media/posts/9/IMS-Network-Analytics-2022.png" medium="image" />
+            <category term="עדכונים"/>
+            <category term="מידע"/>
+
+        <updated>2023-01-02T21:39:50+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.ims-network.org/media/posts/9/IMS-Network-Analytics-2022.png" alt="" />
+                    <p class="align-right">אנחנו נצלול לכמה ניתוחים מעניינים לגבי רשת השרתים שלנו ו והעבודה הקשה שהמפתחים שלנו השקיעו<br>ראינו מספר עצום של מבקרים באתרים שלנו והמון דברים מגניבים<br>בפוסט זה, נסקור מקרוב את המספרים וניתן קצת הקשר למשמעות של מדדים אלה עבור הקהילה שלנו ועתיד הפרויקט שלנ! אז בלי להתעסק יותר, בואו נצלול</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.ims-network.org/media/posts/9/IMS-Network-Analytics-2022.png" class="type:primaryImage" alt="" /></p>
+                <p class="align-right">אנחנו נצלול לכמה ניתוחים מעניינים לגבי רשת השרתים שלנו ו והעבודה הקשה שהמפתחים שלנו השקיעו<br>ראינו מספר עצום של מבקרים באתרים שלנו והמון דברים מגניבים<br>בפוסט זה, נסקור מקרוב את המספרים וניתן קצת הקשר למשמעות של מדדים אלה עבור הקהילה שלנו ועתיד הפרויקט שלנ! אז בלי להתעסק יותר, בואו נצלול</p>
+
+<h2 class="align-right">!מעל 12 מליון מבקרים</h2>
+<figure ><figure class="post__image post__image--wide"><img loading="lazy"  src="https://cdn.discordapp.com/attachments/963398459149402182/1059524636339093636/image.png" data-is-external-image="true"></figure>
+<figcaption >צילום מתוך פאנל השליטה הפנימי שלנו<br>הצילום הוא אילוסטרצייה והפאנל הרגיל שלנו נראה קצת שונה</figcaption>
+</figure>
+<p class="align-right">אנו שמחים להודיע שבשנת 2022, הגענו לאבן דרך חשובה - 12 מיליון ביקורים בשרתים האינטרנט וברשת האתרים שלנו! זוהי עדות לעבודה הקשה ולמסירות של הצוות שלנו, כמו גם לתמיכה ולנאמנות של הקהילה הנפלאה שלנו<br>לא היינו יכולים לעשות את זה בלעדיכם<br>אנחנו לא יכולים לחכות לראות מה מצפה לנו בעתיד ולאיזה גבהים חדשים נגיע יחד</p>
+<p class="align-right">בשנת 2023 אנחנו נציג את כל הנתונים בפורטל חדש הזמין לציבור</p>
+<h2 class="align-right">התקפות בשנת 2022</h2>
+<p>בשנת 2022 אנחנו הגברנו ושישנינו את מערכות האבטחה שלנו מקצה לקצה עברנו להגנת אפס אמון מתקדמת, כל האתרים שלנו פועלים במערכת אפס אייפי ואנחנו משתמשים בטכנולוגיות ההגנה הכי מתקדמות בשוק בדיוק כמו כל הגדולים</p>
+<p>אם זאת, עדיין היינו קורבן להתקפות שונות! והינה חלק מהנתונים</p>
+<h3 class="align-right">התקפות בוטים</h3>
+<p class="msg msg--info align-right">התקפות הבוטים ברשימה הזאת הן מכל המדינות מקור שמהן נשלחה ההתקפה, אין אנו מאשימים אף מדינה או אדם</p>
+<table style="border-collapse: collapse; width: 100%; height: 649.969px;" border="1">
+<tbody>
+<tr style="height: 96.0156px;">
+<td class="align-center" style="width: 24.9643%; height: 96.0156px;">
+<h4>?פגע</h4>
+</td>
+<td class="align-center" style="width: 50.0713%; height: 96.0156px;">
+<h4>כמות</h4>
+</td>
+<td class="align-center" style="width: 24.9643%; height: 96.0156px;">
+<h4>מדינה</h4>
+</td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
+<td class="align-center" style="width: 50.0713%; height: 50.3594px;">20K</td>
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">איראן</td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
+<td class="align-center" style="width: 50.0713%; height: 50.3594px;">35.7K</td>
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">טורקיה</td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">כן, כמה פעמים</td>
+<td class="align-center" style="width: 50.0713%; height: 50.3594px;">480.9K</td>
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">ארה"ב</td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">כן, כמה פעמים</td>
+<td class="align-center" style="width: 50.0713%; height: 50.3594px;">647.8K</td>
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">סין</td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
+<td class="align-center" style="width: 50.0713%; height: 50.3594px;">15K</td>
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">צרפת</td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
+<td class="align-center" style="width: 50.0713%; height: 50.3594px;">67.8K</td>
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">גרמניה</td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
+<td class="align-center" style="width: 50.0713%; height: 50.3594px;">88.1K</td>
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">ספרד</td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
+<td class="align-center" style="width: 50.0713%; height: 50.3594px;">39K</td>
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">בריטניה</td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
+<td class="align-center" style="width: 50.0713%; height: 50.3594px;">51K</td>
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">אוסטרלייה</td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
+<td class="align-center" style="width: 50.0713%; height: 50.3594px;">11K</td>
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">בלגיה</td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
+<td class="align-center" style="width: 50.0713%; height: 50.3594px;">396.3K</td>
+<td class="align-center" style="width: 24.9643%; height: 50.3594px;">רוסיה</td>
+</tr>
+</tbody>
+</table>
+<h3 class="align-right">התקפות רגילות ונפוצות</h3>
+<p class="msg msg--highlight  align-right">חשוב להדגיש כי אין לנו מדידה מדיוקת של נתונים ומדובר בהערכות שלנו על סמך הנתונים</p>
+<p class="msg msg--info align-right"> ההתקפות האלה הן הכי גדולות השנה אנחנו מציגים את הנתונים הכי גבוהים מכל השנה</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td class="align-center" style="width: 49.9288%;"><strong>5GB/sec</strong></td>
+<td class="align-center" style="width: 49.9288%;"><strong>DDOS</strong></td>
+</tr>
+<tr>
+<td class="align-center" style="width: 49.9288%;"><strong>2GB/Sec</strong></td>
+<td class="align-center" style="width: 49.9288%;"><strong>DOS</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 class="align-right">התקפות קוד ואפלקציות רשת</h3>
+<p class="msg msg--highlight  align-right">אף אחת מההתקפות <strong><span style="text-decoration: underline; color: #e03e2d;">לא</span> השפיעו על המידע או על אחת מהמערכות שלנו</strong>, ההתקפות התבצעו על ידי הצוות שלנו בשביל בדיקות אבטחה שאנחנו עורכים כל כמה חודשים. אנחנו מתקנים בעיות אבטחה <span style="color: #ba372a;"><strong><a href="https://legal.ims-network.net/security.html" target="_blank" rel="noopener noreferrer" style="color: #ba372a;">בהתאם למדיניות האבטחה שלנו</a></strong></span></p>
+<table style="border-collapse: collapse; width: 100%; height: 448.531px;" border="1">
+<tbody>
+<tr style="height: 96.0156px;">
+<td class="align-center" style="width: 50.0713%; height: 96.0156px;">
+<h3><strong>כמות</strong></h3>
+</td>
+<td class="align-center" style="width: 49.9287%; height: 96.0156px;">
+<h3><strong>סוג התקפה</strong></h3>
+</td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 50.0713%; height: 50.3594px;">3</td>
+<td class="align-center" style="width: 49.9287%; height: 50.3594px;">XPATH Injection</td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 50.0713%; height: 50.3594px;">2</td>
+<td class="align-center" style="width: 49.9287%; height: 50.3594px;"><a href="https://owasp.org/www-community/vulnerabilities/CRLF_Injection" target="_blank" rel="noopener noreferrer">CRLF Injection</a></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 50.0713%; height: 50.3594px;">5</td>
+<td class="align-center" style="width: 49.9287%; height: 50.3594px;"><a href="https://portswigger.net/web-security/csrf" target="_blank" rel="noopener noreferrer">CSRF Injection</a></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 50.0713%; height: 50.3594px;">70</td>
+<td class="align-center" style="width: 49.9287%; height: 50.3594px;"><a href="https://owasp.org/www-community/attacks/xss/" target="_blank" rel="noopener noreferrer">XSS Injection</a></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 50.0713%; height: 50.3594px;">6</td>
+<td class="align-center" style="width: 49.9287%; height: 50.3594px;">XXE Injection</td>
+</tr>
+</tbody>
+</table>
+<h3 class="align-right">בעולם הקוד</h3>
+<p class="align-right">הצוות שלנו כתב כ 700 שעות קוד השנה<br>Lua השפת קידוד הכי פופאולרית שלנו היא<br>היום שאנחנו הכי פעילים בואו הוא שישי<br>Windose סוג המערכת ההפעלה הכי פופאולרי הוא<br>המומוצע היומי שלנו הוא 4 שעות לכל הצוות<br>היום שבואו כתבנו הכי הרבה קוד היה בתשיעי לדצבמר</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>סטאטוס עדכונים חודש דצמבר</title>
         <author>
