@@ -68,6 +68,18 @@
 </image:image>
 </url>
 <url>
+<loc>https://blog.ims-network.org/iso-27001-for-ims/</loc>
+<lastmod>2023-01-28T11:45:06+02:00</lastmod>
+<image:image>
+<image:loc>https://blog.ims-network.org/media\posts\12/iso-27001-for-ims.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.ims-network.org/media\posts\12/ISO-27001.png</image:loc>
+<image:title><![CDATA[ ISO 27001 Certificate]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://blog.ims-network.org/minecraft-telemetry-transparency-update/</loc>
 <lastmod>2022-11-17T14:59:05+02:00</lastmod>
 <image:image>
@@ -324,6 +336,9 @@
 </url>
 <url>
 <loc>https://blog.ims-network.org/tags/fivem/</loc>
+</url>
+<url>
+<loc>https://blog.ims-network.org/tags/iso-27001/</loc>
 </url>
 <url>
 <loc>https://blog.ims-network.org/tags/minecraft/</loc>
