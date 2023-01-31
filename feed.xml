@@ -3,12 +3,53 @@
     <title>IMS - Blogs</title>
     <link href="https://blog.ims-network.org/feed.xml" rel="self" />
     <link href="https://blog.ims-network.org" />
-    <updated>2023-01-28T11:50:03+02:00</updated>
+    <updated>2023-01-31T23:08:11+02:00</updated>
     <author>
         <name>thefourCraft</name>
     </author>
     <id>https://blog.ims-network.org</id>
 
+    <entry>
+        <title>פרטנר חדש מצטרף לקהילה שלנו</title>
+        <author>
+            <name>thefourCraft</name>
+        </author>
+        <link href="https://blog.ims-network.org/partner-breadbuilds/"/>
+        <id>https://blog.ims-network.org/partner-breadbuilds/</id>
+        <media:content url="https://blog.ims-network.org/media/posts/13/BreadBuilds-partner.png" medium="image" />
+            <category term="פרטנר"/>
+            <category term="עדכונים"/>
+            <category term=" BreadBuilds"/>
+
+        <updated>2023-01-31T23:08:11+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.ims-network.org/media/posts/13/BreadBuilds-partner.png" alt="" />
+                    <p class="align-right">!BreadBuilds אנחנו גאים להכריז על השותפות החדשה שלנו עם <br>אנו שמחים לעבוד עם צוות כל כך מוכשר ומנוסה, ואנחנו יודעים שהשותפות הזו תביא יתרונות משמעותיים לשרתי המיינקראפט שלנו</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.ims-network.org/media/posts/13/BreadBuilds-partner.png" class="type:primaryImage" alt="" /></p>
+                <p class="align-right">!BreadBuilds אנחנו גאים להכריז על השותפות החדשה שלנו עם <br>אנו שמחים לעבוד עם צוות כל כך מוכשר ומנוסה, ואנחנו יודעים שהשותפות הזו תביא יתרונות משמעותיים לשרתי המיינקראפט שלנו</p>
+
+<p class="align-right">BreadBuilds המומחיות של</p>
+<p class="align-right">היא חברה ידועה בעיצוב בניות מדהימות, האבים ולוביים עבור שרתי מיינקראפט BreadBuilds <br>מאות, אם לא אלפי, שרתים, הפכו למושכים יותר מבחינה ויזואלית בשל מאמציהם, והשחקנים שלהם מעריכים את הבניות שלהם</p>
+<h2 class="align-right">שיפור חוויית המשחק עבור השחקנים</h2>
+<p class="align-right">בקהילה שלנו, אנו מבינים את החשיבות של לספק לשחקנים שלנו חווית משחק סוחפת ומהנה<br>על הסיפון כדי לעזור לנו לקחת את השרת שלנו BreadBuilds זו הסיבה שאנו שמחים לקבל את<br> לשלב הבא עם המומחיות והיצירתיות שלהם, אנו בטוחים שהשרת שלנו יהפוך לאחד משרתי המדהימים ביותר בישראל</p>
+<h2>למה אתם יכולים לצפות מהשותפות</h2>
+<h3 class="align-center">קודם כל קהילת אי.אמ.אס מעניקה לכם 7 אחוז הנחה בכל קנייה! <a href="https://www.breadbuilds.com/?ref=ims-network" target="_blank" rel="sponsored noopener noreferrer">לחצו פה לקבלת ההנחה<br></a></h3>
+<p class="align-right">השחקנים יכולים לצפות לבניות יפות ומעוצבות היטב, האבים ולוביים שייקחו את חווית המיינקראפט שלהם לרמה חדשה<br>בין אם את\ה שחקנ\ית ותיק\ה או רק מתחיל\ה, העיצובים החדשים יספקו חווית משחק סוחפת ומהנה יותר לכולם</p>
+<p> </p>
+<div><a href="https://www.breadbuilds.com/?ref=ims-network" rel="noopener sponsored" target="_blank"><img loading="lazy" src="https://creatives.goaffpro.com/7051621/1674657864802.png" alt="" data-is-external-image="true"></a></div>
+<div> </div>
+<h2 class="align-right">מתקדמים ביחד</h2>
+<div> </div>
+<div class="align-right">BreadBuilds אנו בטוחים שהשותפות הזו עם <br>תביא ערך רב לקהילת המשחקים שלנו, ואנחנו לא יכולים לחכות לחלוק את התוצאות עם כולכם<br>!אז, חפשו עיצובים חדשים ומשופרים שיגיעו אליכם</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title> ISO 27001 קהילת הגיימינג הישראלית היחידה אם הסמכת</title>
         <author>
@@ -770,57 +811,6 @@
 <h6 class="align-right">?האם יש השפעה על השרתים שלכם</h6>
 <p class="align-right">לא, אנחנו לא קשורים למערכות של מוג'אנג השרת שלנו הוא <strong>פרטי לחלוטין</strong></p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>פריצת מידע בפייבאם</title>
-        <author>
-            <name>thefourCraft</name>
-        </author>
-        <link href="https://blog.ims-network.org/fivem-data-exposed/"/>
-        <id>https://blog.ims-network.org/fivem-data-exposed/</id>
-        <media:content url="https://blog.ims-network.org/media/posts/3/fivem-data-exposed.png" medium="image" />
-            <category term="שרתים"/>
-            <category term="פריצות לפייבאם"/>
-            <category term="פייבאם"/>
-
-        <updated>2023-01-21T23:06:30+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.ims-network.org/media/posts/3/fivem-data-exposed.png" alt="פריצת מידע בפייבאם תמונת נושא" />
-                    ב 3.11.2022 האקר שפעל כנגד הארגון פרץ לחשבון מנהל וניצל את הגישות שלו בשביל להוציא מידע רגיש על משתמשי הפורום. ארגון פייבאם הודיע על מתוך מחויביות לפרטיות ואבטחה ולכן הם הודיעו על מה שקרה APIהוא פרץ למשתמש מנהל ישן, שהנהלת פייבאם שכחו למחוק. בעזרת המשתמש&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.ims-network.org/media/posts/3/fivem-data-exposed.png" class="type:primaryImage" alt="פריצת מידע בפייבאם תמונת נושא" /></p>
-                <p class="align-right">ב 3.11.2022 האקר שפעל כנגד הארגון פרץ לחשבון מנהל וניצל את הגישות שלו בשביל להוציא מידע<br>רגיש על משתמשי הפורום.<br>ארגון פייבאם הודיע על מתוך מחויביות לפרטיות ואבטחה ולכן הם הודיעו על מה שקרה</p>
-<h3 class="align-right">?איך ההאקר גנב את המידע</h3>
-<p class="align-right"><a href="https://docs.discourse.org/" target="_blank" rel="noopener noreferrer">API</a>הוא פרץ למשתמש מנהל ישן, שהנהלת פייבאם שכחו למחוק. בעזרת המשתמש הוא קיבל גישה ל<br><a href="https://www.discourse.org/" target="_blank" rel="noopener noreferrer">Discourse</a> הקשור למערכת הפורומים <br>מכיל מידע פשוט, ולא מכיל סיסמאות או מידע אישי <a href="https://www.discourse.org/" target="_blank" rel="noopener noreferrer">Discourse</a> של <a href="https://docs.discourse.org/" target="_blank" rel="noopener noreferrer">API</a>ה<br>המשמעות היא שההאקר לא היה יכול לקבל גישה לסיסמאות או לכל שאר המערכות</p>
-<h3 class="align-right">?איזה מידע נגנב</h3>
-<blockquote>
-<p class="align-right">חבל שמישהו הצליח לגשת לחשבון מנהל לא בשימוש כדי לגנוב נתוני חשבון מהפורומים שלנו</p>
-<p><a href="https://forum.cfx.re/t/incident-report-account-emails-and-server-keys-were-exposed-to-a-malicious-actor/4943211" target="_blank" rel="noopener noreferrer">frenzy-renegade</a></p>
-</blockquote>
-<p class="align-right">Keymaster עם זאת, התוקף הצליח להשיג מפתחות רישיון דרך פורטל ניהול פנימי, למערכת<br>שאילו הייתה גישה מחשבון המנהל שנפרץ, אף על פי שהנהלת פייבאם אמרה<br>שנתוני החשבון מוגבלים הוא כן הצליח לחשוף את</p>
-<p class="align-right">שם משתמש - שם המשתמש שלכם בפורום של פייבאם<br>כתובת דוא"ל - כתובת האימייל שלכם בפורום של פייבאם<br>כתובות אייפי - כתובת האייפי שאיתה ביצעם הרשמה למשתמש, וכתובת האייפי שאיתה התחברתם<br>מפתחות רישיון שרת - מפתחות אימות שרת שאתם מקבלים בפאנל</p>
-<h3 class="align-right">?מה צריך לעשות</h3>
-<h5 class="msg msg--info align-right">המידע שרשום פה הוא דעה אישית שלנו</h5>
-<p class="msg msg--highlight  align-right">להחליף סיסמא בפורטלים ובמערכות פייבאם<br><a href="https://keymaster.fivem.net/" target="_blank" rel="noopener noreferrer">Keymaster</a> להיכנס לפאנל<br>להחליף את כל המפתחות של השרתים שלכם</p>
-<h3 class="align-right">?איך קרה שמישהוא מקבל גישה למידע</h3>
-<p class="align-right"> חברים רבים בצוות פייבאם השתמשו בשמות אלמנטים מהטבלה המחזורית בתור השמות הבדויים שלהם<br>עוד בשנת 2016, הם כתבו סקריפט ליצירת משתמשי פורום באופן פרוגרמטי עבור כל רכיב מהטבלה המחזורית<br>זה איפשר להם לפרסם הודעות כשמות אלמנטים שונים באמצעות תוסף פורום שהם פיתחו<br>לכל אחד מחשבונות האלמנטים הללו הוקצתה סיסמה אקראית לא ידועה<br>והיה אפשר להיכנס אלייהם דרך התוסף המיוחד<br><br>הם הפסיקו להשתמש בחשבונות האלמנטים האלה בפורומים ב-2019, והזינחו אותם למה שהם היו. הייתה להם סיסמה אקראית שאף אחד לא ידע, כך שאף אחד לא יוכל להיכנס אליהם<br>לפחות זה מה שהם חשבו<br><br>ב-3 בנובמבר צץ לפתע אחד מאותם חשבונות אלמנטים. התוקף השתמש בחשבון אלמנט שנפרץ כדי ליצור פוסט שבו גילה שיש לו גישה לנתוני החשבון</p>
-<figure class="post__image"><img loading="lazy"  src="https://forum.cfx.re/uploads/default/optimized/4X/8/2/0/820dd4868977f420916b8ceba17a5e6e5619dbc1_2_690x328.png" alt="פרסום של הפורץ" width="690" height="328" data-is-external-image="true"></figure>
-<p class="align-right">זה העלה פעמוני אזעקה בצוות פייבאם והם התחילו לחקור<br><br>ב 12 לאוקטובר 2022 התוקף הצליח לגשת למספר רב של חשבונות אלמנטים<br>הוא עשה על ידי התקפת כוחנית, הוא הספים אותם בבקשות והחליף כתובות אייפי בכדיי להמנע מזיהוי עלי ידי מערכת ההגנה של הפרום.<br><a href="https://experis.co.il/%D7%90%D7%99%D7%9A-%D7%90%D7%A4%D7%A9%D7%A8-%D7%9C%D7%9E%D7%A0%D7%95%D7%A2-%D7%94%D7%AA%D7%A7%D7%A4%D7%AA-brute-force-%D7%A2%D7%9C-%D7%90%D7%AA%D7%A8%D7%99%D7%9D/" target="_blank" rel="noopener noreferrer">איך עובדת תקיפה כוחנית</a><br><br><br>החל מה-17 באוקטובר ועד ה-3 בנובמבר, התוקף הצליח לגנוב נתוני חשבון מהפורומים<br>זה קרה בקצב שלא ניתן היה להבחין במדדים, ולכן ההנהלת פייבאם לא שמה לב<br>ברגע שהנהלת פייבאם גילתה  את הפוסט שנוצר על ידי התוקף, <br>הם השביתו את כל חשבונות האלמנטים כדי למנוע שימוש נוסף</p>
-<h3 class="align-right">?למה הוא הצליח לפרוץ למשתמשים</h3>
-<p class="align-right">חוזק הסיסמאות היה פשוט ולא עמד בסטנדרטים מודרניים<br>לא היה מערכת אדו"ש (אימות דו שלבי) למשתמשים </p>
-<h4 class="align-right">המשך סיפור</h4>
-<p class="align-right">ב-22 באוקטובר הנהלת פייבאם מסרה כי הבחינה בפעילות חשודה בחלק מהיומנים הפנימיים<br>אבל הם לא עשו אם המידע הזה כלום, בגלל בילבול פנימי של אנשי הצוות</p>
-<h5 class="align-right">?מה הנהלת פייבאם עשתה בשביל לתקן את הבעייה</h5>
-<h6 class="align-right">הנהלת פייבאם אמרה בתגובה</h6>
-<p class="align-right">;זיהינו את נקודת הכניסה ואת ההיקף המלא של הפרת הנתונים<br>;השבתנו את כל חשבונות הרכיבים הנ"ל והסרנו את ההרשאות שלהם<br>;בדקנו את היומנים שלנו כדי לוודא ששום דבר אחר לא נפרץ<br>כדי להתכונן לחידוש מפתח הרישיון הקרוב Keymaster פרסמנו שינוי ראשוני ל</p>
-<h3 class="align-right">?איך אפשר ללמוד מהסיפור הזה</h3>
-<p class="align-right">פריצת המידע הזאת מלמדת אותנו על חשיבות אבטחת המשתשמים שלכם, כאשר אתם מפתחים או בונים משהוא בדרך כלל אתם יוצרים משתמשי בדיקה, לרוב אם סיסמאות חלשות וללא אדו"ש<br>חשוב מאוד לוודא שאתם מוחקים ומסירים גישות למשתמשים שלא אמורים לקבל גישות<br><br>בנוסף, אם אתם מנהלים פורום או אתר, חשוב לבטל משתמשים שלא פעילים כבר תקופה ארוכה ולמחוק את המידע שלהם<br>זה גם חוסך במקום בשרת, וגם משפר את האבטחה הכללית של הארגון\קהילה שלכם</p>
             ]]>
         </content>
     </entry>
