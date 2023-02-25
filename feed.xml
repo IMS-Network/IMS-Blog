@@ -3,12 +3,52 @@
     <title>IMS - Blogs</title>
     <link href="https://blog.ims-network.org/feed.xml" rel="self" />
     <link href="https://blog.ims-network.org" />
-    <updated>2023-02-19T16:00:00+02:00</updated>
+    <updated>2023-02-25T22:48:10+02:00</updated>
     <author>
         <name>thefourCraft</name>
     </author>
     <id>https://blog.ims-network.org</id>
 
+    <entry>
+        <title>אירוע מיינקראפט ישראלי ראשון</title>
+        <author>
+            <name>thefourCraft</name>
+        </author>
+        <link href="https://blog.ims-network.org/2023-mcil-event-minecraft/"/>
+        <id>https://blog.ims-network.org/2023-mcil-event-minecraft/</id>
+        <media:content url="https://blog.ims-network.org/media/posts/20/2023-mcil-event-minecraft.png" medium="image" />
+            <category term="שרתים"/>
+            <category term="מיינקראפט ישראל"/>
+            <category term="מיינקראפט"/>
+            <category term="אירועים"/>
+            <category term="איגוד הגיימינג הישראלי"/>
+            <category term="IsraelMC"/>
+
+        <updated>2023-02-25T22:48:10+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.ims-network.org/media/posts/20/2023-mcil-event-minecraft.png" alt="" />
+                    <p class="align-right">אנו שמחים לשתף אתכם באירוע האחרון שהתרחש <a href="https://discord.gg/2yJeBdHmmS" target="_blank" rel="noopener noreferrer">בשרת הדיסקורד של מיינקראפט ישראל</a><br><a href="https://discord.gg/israelmc" target="_blank" rel="sponsored noopener noreferrer">IsraelMC</a> האירוע נקרא "משחקי תפוחי אדמה", וזו הייתה הצלחה גדולה והוא נעשה על ידי קהילת</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.ims-network.org/media/posts/20/2023-mcil-event-minecraft.png" class="type:primaryImage" alt="" /></p>
+                <p class="align-right">אנו שמחים לשתף אתכם באירוע האחרון שהתרחש <a href="https://discord.gg/2yJeBdHmmS" target="_blank" rel="noopener noreferrer">בשרת הדיסקורד של מיינקראפט ישראל</a><br><a href="https://discord.gg/israelmc" target="_blank" rel="sponsored noopener noreferrer">IsraelMC</a> האירוע נקרא "משחקי תפוחי אדמה", וזו הייתה הצלחה גדולה והוא נעשה על ידי קהילת</p>
+
+<h2 class="align-right">"מזה "משחקי תפוחי אדמה</h2>
+<p class="align-right">למי שלא יודע, משחקי תפוחי אדמה היא מפה הכוללת מיני משחקי מיני כמו תופסת צבעים, דרופר, משחקי רעב ווול ראן, בין היתר. בכל פעם ששחקן מנצח משחק, הם מקבלים תפוח אדמה, והשחקן עם הכי הרבה תפוחי אדמה בסוף כל הסיבובים מוכרז כמנצח</p>
+<h2 class="align-right">מה היה באירוע</h2>
+<div class="post__iframe"><iframe loading="lazy" width="704" height="395" style="width: 704px; height: 395px;" src="https://www.youtube-nocookie.com/embed/mpigHd3SbnA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<p class="align-right"><a href="https://discord.gg/israelmc" target="_blank" rel="sponsored noopener noreferrer">IsraelMC</a> האירוע נערך בשיתוף פעולה עם השרת<br>וזו הייתה הזדמנות פנטסטית עבור שחקני מיינקראפט מקהילות שונות להתכנס יחד וליהנות<br>האירוע היה דרך מצוינת לשחקנים לתרגל את כישורי השפה שלהם תוך כדי ליהנות מהמשחק האהוב אליהם</p>
+<p class="align-right">האירוע זכה להצלחה אדירה, היו הרבה שחקנים נרגשים שהשתתפו. אנו רוצים להודות לכל מי שהצטרף אלינו על האירוע והפך אותו להצלחה גדולה. אנו מקווים לערוך אירועים נוספים כאלה, אז הישארו מעודכנים!</p>
+<p class="align-right">אם עדיין לא עשיתם זאת, אנו ממליצים לכם לבדוק את שרת הדיסקורד של <a href="https://discord.gg/2yJeBdHmmS" target="_blank" rel="sponsored noopener noreferrer">מיינקראפט ישראל ולהצטרף לקהילה המאוחדת של ישראל</a><br>אנו תמיד מחפשים שחקנים חדשים שיצטרפו אלינו ויהפכו את הקהילה שלנו אפילו טובה יותר</p>
+<p class="align-right">אנו מקווים שזה ייתן לכם טעימה של איך היה האירוע ויעודד אתכם להצטרף לקהילה שלנו</p>
+<h2 class="align-center"><a href="https://discord.gg/2yJeBdHmmS" target="_blank" rel="sponsored noopener noreferrer">לשרת הדיסקורד</a></h2>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>עדכון פיתוח ספרינט מספר שתיים שנת 2023</title>
         <author>
@@ -98,6 +138,51 @@
 <p class="align-right">Cloudflare האייפי שלנו הוא מאוגד לארה"ב בגלל שזה המיקום של חברת <br>אבל הוא ירוץ על השרתים שלנו דרך מעבר גרמנייה בגלל אילוצי מדינת ישראל בעזרת אלפיין יוכלו להיכנס המשתמשים שלנו, ויקבלו חיבור ארצי נמוך 30 - 10 פינג בכל מקום בארץ</p>
 <h2 class="align-right">מערכת אלפיין ופלטפורמת אלפיין</h2>
 <p class="align-right">אנחנו ממש נרגשים להודיע על סיום הפיתוח של המערכת שלנו ובקרוב תוכלו לרכוש אותה דרך פורטל הלקוחות</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>!נכנסו לתחרות תיקון בעיות האבטחה העולמית בואו גם</title>
+        <author>
+            <name>thefourCraft</name>
+        </author>
+        <link href="https://blog.ims-network.org/the-big-fix-snyk/"/>
+        <id>https://blog.ims-network.org/the-big-fix-snyk/</id>
+        <media:content url="https://blog.ims-network.org/media/posts/18/the-big-fix-snyk.png" medium="image" />
+            <category term="אבטחה"/>
+            <category term="Snyk"/>
+
+        <updated>2023-02-25T21:43:37+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.ims-network.org/media/posts/18/the-big-fix-snyk.png" alt="" />
+                    <p class="align-right">כגיימרים ומפתחים ובתור קהילה אנחנו שמים דגש גבוהה על אבטחה ופרטיות חשוב לנו לבנות חווית משחק מאובטחת ששומרת על פרטיות השחקנים שלנו<br>אנו שמחים לשתף את החדשות על תחרות "התיקון הגדול", בן חודש של שמפגיש בין מפתחים כדי <a href="https://snyk.io/" target="_blank" rel="sponsored noopener noreferrer">Snyk</a> ליצור מערכת אקולוגית מאובטחת יותר על ידי שותף האבטחה שלנו</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.ims-network.org/media/posts/18/the-big-fix-snyk.png" class="type:primaryImage" alt="" /></p>
+                <p class="align-right">כגיימרים ומפתחים ובתור קהילה אנחנו שמים דגש גבוהה על אבטחה ופרטיות חשוב לנו לבנות חווית משחק מאובטחת ששומרת על פרטיות השחקנים שלנו<br>אנו שמחים לשתף את החדשות על תחרות "התיקון הגדול", בן חודש של שמפגיש בין מפתחים כדי <a href="https://snyk.io/" target="_blank" rel="sponsored noopener noreferrer">Snyk</a> ליצור מערכת אקולוגית מאובטחת יותר על ידי שותף האבטחה שלנו</p>
+
+<h2 class="align-right">סרקו את הפרויקטים שלכם</h2>
+<p class="align-right">התיקון הגדול מתקיים בין 14 בפברואר עד 14 במרץ 2023, והוא פתוח לכל מי שרוצה להשתתף (לגמרי בחינם)</p>
+<h3 class="align-right">ככה זה עובד</h3>
+<p class="align-right"><a href="https://snyk.io/" target="_blank" rel="sponsored noopener noreferrer">Snyk</a> פתחו משתמש ב<br><br>...<a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub</a>, <a href="https://gitlab.com" target="_blank" rel="noopener noreferrer">GitLab</a> הוסיפו אותו למערכת הפיתוח שלכם, דרך </p>
+<p class="align-right">סרקו את הפרוייקטים וחפשו בעיות אבטחה</p>
+<p class="align-right">תקנו את בעיות האבטחה וצברו נקודות</p>
+<p class="align-right">ומי יודע אולי תזכו בחולצת ניצחון במהדורה מוגבלת</p>
+<h2 class="align-right">שתפו את ההישגים שלכם אם הקהילה</h2>
+<p class="align-right"><a href="https://discord.gg/NXuz63GmUt" target="_blank" rel="noopener noreferrer">DevSecOps</a> בואו לקהילת הדיסקורד שלנו בשביל לקבל עזרה ולדבר על אבטחה הצטרפו לדיסוקרד<br><a href="https://snyk.io/" target="_blank" rel="sponsored noopener noreferrer">Snyk</a> דברו אם מפתחים אחרים ואם צוות הפיתוח של</p>
+<p class="align-right">על ידי השתתפות "<a href="https://bigfix.snyk.io/leaderboard" target="_blank" rel="sponsored noopener noreferrer">בתיקון הגדול</a>", תוכלו לשפר את האבטחה של הפרויקטים שלכם ותתרום לאבטחה הכוללת של כל העולם. והכי טוב, יהיה לכם כיף בזמן שתעשו את זה!</p>
+<h2 class="align-right">אנחנו גם משתתפים בואו להתחרות</h2>
+<p class="align-right"><a href="https://bigfix.snyk.io/leaderboard" target="_blank" rel="sponsored noopener noreferrer">fat-silver-waf</a> צוות הפיתוח שלנו גם נכנס לתחרות תחת הכינוי<br>כרגע אנחנו מקום 13 בעולם!<br>אנו מאמינים כי כל מפתח יכול להשפיע לטובה ולשפר את האבטחה של הפרויקטים שלו, ואנחנו שמחים לאחד כוחות עם מפתחים אחרים כדי שזה יקרה</p>
+<h2 class="align-right">בואו לתיקון הגדול</h2>
+<p class="align-right">אז למה אתם מחכים? <a href="https://snyk.io/events/the-big-fix/" target="_blank" rel="sponsored noopener noreferrer">הצטרפו לתחרות עוד היום ועשו את ההבדל בעולם התוכנה תוך כדי כיף וזכייה בפרסים</a><br>בואו נהפוך את העולם למאובטח יותר על ידי תיקון בעיית אבטחה אחת בכל צעד</p>
+<h2 class="align-right">Synk קצת על מערכת האבטחה של</h2>
+<figure class="post__video"><video loading="lazy" width="700" height="348" style="width: 700px; height: 348px;" controls="controls" data-mce-fragment="1">
+<source src="https://www.youtube-nocookie.com/embed/2oCog1TGM0w" /></video></figure>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -465,219 +550,6 @@
 <p class="align-right"><a href="https://workers.cloudflare.com/" target="_blank" rel="nofollow sponsored noopener noreferrer">Worker</a>אנחנו עושים את זה בשימוש ב</p>
 <pre><code>const base = 'https://example.com';</code><br><code>const statusCode = 301;</code><br><br><code>async function handleRequest(request) {  const url = new URL(request.url);  const { pathname, search } = url;</code><br><code>  const destinationURL = base + pathname + search;</code><br><code>  return Response.redirect(destinationURL, statusCode);</code><br><code>}</code><br><br><code>addEventListener('fetch', async event =&gt; {  event.respondWith(handleRequest(event.request));</code><br><code>});</code></pre>
 <p class="align-right">המעבר הזה משפר לכם את האבטחה ואיכות החיבור לאתרים שלנו</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>שנת 2022 במספרים ואנליטיקה</title>
-        <author>
-            <name>thefourCraft</name>
-        </author>
-        <link href="https://blog.ims-network.org/analytics-2022/"/>
-        <id>https://blog.ims-network.org/analytics-2022/</id>
-        <media:content url="https://blog.ims-network.org/media/posts/9/IMS-Network-Analytics-2022.png" medium="image" />
-            <category term="עדכונים"/>
-            <category term="מידע"/>
-
-        <updated>2023-01-02T21:39:50+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.ims-network.org/media/posts/9/IMS-Network-Analytics-2022.png" alt="" />
-                    <p class="align-right">אנחנו נצלול לכמה ניתוחים מעניינים לגבי רשת השרתים שלנו ו והעבודה הקשה שהמפתחים שלנו השקיעו<br>ראינו מספר עצום של מבקרים באתרים שלנו והמון דברים מגניבים<br>בפוסט זה, נסקור מקרוב את המספרים וניתן קצת הקשר למשמעות של מדדים אלה עבור הקהילה שלנו ועתיד הפרויקט שלנ! אז בלי להתעסק יותר, בואו נצלול</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.ims-network.org/media/posts/9/IMS-Network-Analytics-2022.png" class="type:primaryImage" alt="" /></p>
-                <p class="align-right">אנחנו נצלול לכמה ניתוחים מעניינים לגבי רשת השרתים שלנו ו והעבודה הקשה שהמפתחים שלנו השקיעו<br>ראינו מספר עצום של מבקרים באתרים שלנו והמון דברים מגניבים<br>בפוסט זה, נסקור מקרוב את המספרים וניתן קצת הקשר למשמעות של מדדים אלה עבור הקהילה שלנו ועתיד הפרויקט שלנ! אז בלי להתעסק יותר, בואו נצלול</p>
-
-<h2 class="align-right">!מעל 12 מליון מבקרים</h2>
-<figure ><figure class="post__image post__image--wide"><img loading="lazy"  src="https://cdn.discordapp.com/attachments/963398459149402182/1059524636339093636/image.png" data-is-external-image="true"></figure>
-<figcaption >צילום מתוך פאנל השליטה הפנימי שלנו<br>הצילום הוא אילוסטרצייה והפאנל הרגיל שלנו נראה קצת שונה</figcaption>
-</figure>
-<p class="align-right">אנו שמחים להודיע שבשנת 2022, הגענו לאבן דרך חשובה - 12 מיליון ביקורים בשרתים האינטרנט וברשת האתרים שלנו! זוהי עדות לעבודה הקשה ולמסירות של הצוות שלנו, כמו גם לתמיכה ולנאמנות של הקהילה הנפלאה שלנו<br>לא היינו יכולים לעשות את זה בלעדיכם<br>אנחנו לא יכולים לחכות לראות מה מצפה לנו בעתיד ולאיזה גבהים חדשים נגיע יחד</p>
-<p class="align-right">בשנת 2023 אנחנו נציג את כל הנתונים בפורטל חדש הזמין לציבור</p>
-<h2 class="align-right">התקפות בשנת 2022</h2>
-<p>בשנת 2022 אנחנו הגברנו ושישנינו את מערכות האבטחה שלנו מקצה לקצה עברנו להגנת אפס אמון מתקדמת, כל האתרים שלנו פועלים במערכת אפס אייפי ואנחנו משתמשים בטכנולוגיות ההגנה הכי מתקדמות בשוק בדיוק כמו כל הגדולים</p>
-<p>אם זאת, עדיין היינו קורבן להתקפות שונות! והינה חלק מהנתונים</p>
-<h3 class="align-right">התקפות בוטים</h3>
-<p class="msg msg--info align-right">התקפות הבוטים ברשימה הזאת הן מכל המדינות מקור שמהן נשלחה ההתקפה, אין אנו מאשימים אף מדינה או אדם</p>
-<table style="border-collapse: collapse; width: 100%; height: 649.969px;" border="1">
-<tbody>
-<tr style="height: 96.0156px;">
-<td class="align-center" style="width: 24.9643%; height: 96.0156px;">
-<h4>?פגע</h4>
-</td>
-<td class="align-center" style="width: 50.0713%; height: 96.0156px;">
-<h4>כמות</h4>
-</td>
-<td class="align-center" style="width: 24.9643%; height: 96.0156px;">
-<h4>מדינה</h4>
-</td>
-</tr>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
-<td class="align-center" style="width: 50.0713%; height: 50.3594px;">20K</td>
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">איראן</td>
-</tr>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
-<td class="align-center" style="width: 50.0713%; height: 50.3594px;">35.7K</td>
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">טורקיה</td>
-</tr>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">כן, כמה פעמים</td>
-<td class="align-center" style="width: 50.0713%; height: 50.3594px;">480.9K</td>
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">ארה"ב</td>
-</tr>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">כן, כמה פעמים</td>
-<td class="align-center" style="width: 50.0713%; height: 50.3594px;">647.8K</td>
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">סין</td>
-</tr>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
-<td class="align-center" style="width: 50.0713%; height: 50.3594px;">15K</td>
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">צרפת</td>
-</tr>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
-<td class="align-center" style="width: 50.0713%; height: 50.3594px;">67.8K</td>
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">גרמניה</td>
-</tr>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
-<td class="align-center" style="width: 50.0713%; height: 50.3594px;">88.1K</td>
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">ספרד</td>
-</tr>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
-<td class="align-center" style="width: 50.0713%; height: 50.3594px;">39K</td>
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">בריטניה</td>
-</tr>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
-<td class="align-center" style="width: 50.0713%; height: 50.3594px;">51K</td>
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">אוסטרלייה</td>
-</tr>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
-<td class="align-center" style="width: 50.0713%; height: 50.3594px;">11K</td>
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">בלגיה</td>
-</tr>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">לא</td>
-<td class="align-center" style="width: 50.0713%; height: 50.3594px;">396.3K</td>
-<td class="align-center" style="width: 24.9643%; height: 50.3594px;">רוסיה</td>
-</tr>
-</tbody>
-</table>
-<h3 class="align-right">התקפות רגילות ונפוצות</h3>
-<p class="msg msg--highlight  align-right">חשוב להדגיש כי אין לנו מדידה מדיוקת של נתונים ומדובר בהערכות שלנו על סמך הנתונים</p>
-<p class="msg msg--info align-right"> ההתקפות האלה הן הכי גדולות השנה אנחנו מציגים את הנתונים הכי גבוהים מכל השנה</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td class="align-center" style="width: 49.9288%;"><strong>5GB/sec</strong></td>
-<td class="align-center" style="width: 49.9288%;"><strong>DDOS</strong></td>
-</tr>
-<tr>
-<td class="align-center" style="width: 49.9288%;"><strong>2GB/Sec</strong></td>
-<td class="align-center" style="width: 49.9288%;"><strong>DOS</strong></td>
-</tr>
-</tbody>
-</table>
-<h3 class="align-right">התקפות קוד ואפלקציות רשת</h3>
-<p class="msg msg--highlight  align-right">אף אחת מההתקפות <strong><span style="text-decoration: underline; color: #e03e2d;">לא</span> השפיעו על המידע או על אחת מהמערכות שלנו</strong>, ההתקפות התבצעו על ידי הצוות שלנו בשביל בדיקות אבטחה שאנחנו עורכים כל כמה חודשים. אנחנו מתקנים בעיות אבטחה <span style="color: #ba372a;"><strong><a href="https://legal.ims-network.net/security.html" target="_blank" rel="noopener noreferrer" style="color: #ba372a;">בהתאם למדיניות האבטחה שלנו</a></strong></span></p>
-<table style="border-collapse: collapse; width: 100%; height: 448.531px;" border="1">
-<tbody>
-<tr style="height: 96.0156px;">
-<td class="align-center" style="width: 50.0713%; height: 96.0156px;">
-<h3><strong>כמות</strong></h3>
-</td>
-<td class="align-center" style="width: 49.9287%; height: 96.0156px;">
-<h3><strong>סוג התקפה</strong></h3>
-</td>
-</tr>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 50.0713%; height: 50.3594px;">3</td>
-<td class="align-center" style="width: 49.9287%; height: 50.3594px;">XPATH Injection</td>
-</tr>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 50.0713%; height: 50.3594px;">2</td>
-<td class="align-center" style="width: 49.9287%; height: 50.3594px;"><a href="https://owasp.org/www-community/vulnerabilities/CRLF_Injection" target="_blank" rel="noopener noreferrer">CRLF Injection</a></td>
-</tr>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 50.0713%; height: 50.3594px;">5</td>
-<td class="align-center" style="width: 49.9287%; height: 50.3594px;"><a href="https://portswigger.net/web-security/csrf" target="_blank" rel="noopener noreferrer">CSRF Injection</a></td>
-</tr>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 50.0713%; height: 50.3594px;">70</td>
-<td class="align-center" style="width: 49.9287%; height: 50.3594px;"><a href="https://owasp.org/www-community/attacks/xss/" target="_blank" rel="noopener noreferrer">XSS Injection</a></td>
-</tr>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 50.0713%; height: 50.3594px;">6</td>
-<td class="align-center" style="width: 49.9287%; height: 50.3594px;">XXE Injection</td>
-</tr>
-</tbody>
-</table>
-<h3 class="align-right">בעולם הקוד</h3>
-<p class="align-right">הצוות שלנו כתב כ 700 שעות קוד השנה<br>Lua השפת קידוד הכי פופאולרית שלנו היא<br>היום שאנחנו הכי פעילים בואו הוא שישי<br>Windose סוג המערכת ההפעלה הכי פופאולרי הוא<br>המומוצע היומי שלנו הוא 4 שעות לכל הצוות<br>היום שבואו כתבנו הכי הרבה קוד היה בתשיעי לדצבמר</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>סטאטוס עדכונים חודש דצמבר</title>
-        <author>
-            <name>thefourCraft</name>
-        </author>
-        <link href="https://blog.ims-network.org/update-december-2022/"/>
-        <id>https://blog.ims-network.org/update-december-2022/</id>
-        <media:content url="https://blog.ims-network.org/media/posts/8/IMS-Update-December-2022.png" medium="image" />
-            <category term="עדכונים"/>
-            <category term="מיינקראפט"/>
-
-        <updated>2022-12-31T12:34:27+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.ims-network.org/media/posts/8/IMS-Update-December-2022.png" alt="" />
-                    <p class="align-right">ברוכים הבאים לעדכון האחרון שלנו לשנת 2022, בקהילת המשחקים הכי מתקדמת בישראל<br>עבדנו קשה על פיתוח  תכונות חדשות, שיפורים ומערכות חדשות, ואנחנו כמו תמיד משתפים אתכם בכל ההתפתחויות האחרונות<br>בין אם אתם גיימרים תחרותים שמעוניינים לשפר את כישוריכם, או מפתח שמבין קצת בקהילה שלנו יש משהו לכולם<br>אז בלי להתעסק יותר, בואו נצלול לתוך כל העדכונים והדגשים מחודש דצמבר ספרינט 23-24</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.ims-network.org/media/posts/8/IMS-Update-December-2022.png" class="type:primaryImage" alt="" /></p>
-                <p class="align-right">ברוכים הבאים לעדכון האחרון שלנו לשנת 2022, בקהילת המשחקים הכי מתקדמת בישראל<br>עבדנו קשה על פיתוח  תכונות חדשות, שיפורים ומערכות חדשות, ואנחנו כמו תמיד משתפים אתכם בכל ההתפתחויות האחרונות<br>בין אם אתם גיימרים תחרותים שמעוניינים לשפר את כישוריכם, או מפתח שמבין קצת בקהילה שלנו יש משהו לכולם<br>אז בלי להתעסק יותר, בואו נצלול לתוך כל העדכונים והדגשים מחודש דצמבר ספרינט 23-24</p>
-
-<h1 class="align-right">מיינקראפט</h1>
-<p class="msg msg--info align-right">אנחנו עדיין עובדים על שרתי המיינקראפט והם עוד לא זמינים למשחק</p>
-<p class="align-right">אנו נרגשים להביא לכם את העדכונים והשיפורים האחרונים לרשת שרתי המיינקראפט שלנו<br>חלק אהוב ובלתי נפרד מקהילת המשחקים שלנו<br>הצוות המסור שלנו עבד קשה על שיפור חווית המשחק, הוספת תכונות חדשות והפיכת השרת ליותר מסביר פנים ומהנה עבור שחקנים בכל רמות המיומנות<br>בין אם אתם שחקנים ותיקים במיינקראפט או חדשים למשחק, תמיד יש משהו חדש ומרגש לגלות בשרת שלנו<br>אז הצטרפו אלינו בעודנו ממשיכים לבנות ולפתח את רשת שרתי המיינקראפט הכי בטוחה והכי מתקדמת בישראל</p>
-<h2 class="align-right">מערכת האבטחה</h2>
-<p class="align-right">בקהילנו שלנו, אבטחת שחקנים ופרטיות הם בראש סדר העדיפויות שלנו<br>זו הסיבה שאנו נרגשים להכריז על עדכונים לתוסף האבטחה הפופולרי שלנו, שעוזר להגן על השחקנים שלנו מפני גישה לא מורשית ואיומי אבטחה פוטנציאליים<br>עדכונים אלו כוללים מגוון תכונות אבטחה עוצמתיות כגון , כולם נועדו לתת לשחקנים שלנו את השקט הנפשי המגיע להם<br>המטרה של המערכת שלנו היא פשוטה לאבטח את חשבונכם ולהגן על ההתקדמות שלכם, וגם לוודא שהמידע האישי שלכם נשאר פרטי<br>אז המשך לקרוא כדי ללמוד עוד על העדכונים המרגשים האלה וכיצד הם יכולים לעזור לכם להישאר בטוח בזמן שאתה משחק בשרתי המשחק שלנו</p>
-<h4 class="align-right">(<a href="https://en.wikipedia.org/wiki/WebSocket" target="_blank" rel="noopener noreferrer">WebSocket</a>) לשקעי אינרטנט <a href="https://he.wikipedia.org/wiki/Transmission_Control_Protocol" target="_blank" rel="noopener noreferrer">TCP</a>עוברים מ</h4>
-<p class="align-right"><a href="https://en.wikipedia.org/wiki/WebSocket" target="_blank" rel="noopener noreferrer">WebSockets</a> ו-<a href="https://he.wikipedia.org/wiki/Transmission_Control_Protocol" target="_blank" rel="noopener noreferrer">TCP</a> (פרוטוקול בקרת שידור) משמשים שניהם להעברת נתונים דרך האינטרנט, אבל לבחירה טובה יותר במצבים מסוימים <a href="https://en.wikipedia.org/wiki/WebSocket" target="_blank" rel="noopener noreferrer">WebSockets</a> יש להם כמה הבדלים עיקריים שהופכים<br><br>הוא שהם מציעים ערוץ תקשורת דופלקס מלא <a href="https://en.wikipedia.org/wiki/WebSocket" target="_blank" rel="noopener noreferrer">WebSockets</a> אחד היתרונות העיקריים של<br><a href="https://he.wikipedia.org/wiki/Transmission_Control_Protocol" target="_blank" rel="noopener noreferrer">TCP</a>-מה שאומר שגם הלקוח וגם השרת יכולים לשלוח ולקבל נתונים בו זמנית, זאת בניגוד ל<br> <br>פרוטוקול חצי דופלקס המאפשר תקשורת חד-כיוונית בלבד בכל פעם<br>ליעילים הרבה יותר עבור יישומים הדורשים תקשורת <a href="https://en.wikipedia.org/wiki/WebSocket" target="_blank" rel="noopener noreferrer">WebSockets</a>-זה הופך את ה<br>תכופה בזמן אמת בין הלקוח לשרת כגון משחקים מקוונים, יישומי צ'אט וכלי עריכה משותפים</p>
-<p class="align-right">למעבר נתונים מוצפן ובטוח בין API אנחנו משתמשים בשקעי האינטרנט בשביל לאבטח תקשורת <br>השרתים בתוך רשת המיינקראפט שלנו, הכוללת מעל 24 שרתים שונים אם המטרה להגיע ל60 בשנה הקרובה.</p>
-<p class="align-right"><a href="https://github.com/ims-network/locklogin" target="_blank" rel="noopener noreferrer">מערכת האבטחה כמו רוב הפיתוחים שלנו זמינים בקוד פתוח 100 אחוז חינם לכולם</a><br><a href="https://www.spigotmc.org/resources/rd-locklogin-the-best-authentication-plugin-%E2%9C%85-fast%E2%9A%A1-reliable%E2%AD%90-secure%E2%AD%95.75156/" target="_blank" rel="noopener noreferrer">LockLogin</a> בנוסף אפשר למצוא את המערכת בתור פלאגין חינמי בכל חנויות הפלאגינים תחת השם<br>צוות הפיתוח של הפלאגין שעובד צמוד איתנו, מוציא המון שיפורים למערכת ובקרוב היא הולכת להיות הרבה יותר מתקדמת!</p>
-<h2 class="align-right">!<a href="https://he.wikipedia.org/wiki/%D7%A9%D7%A8%D7%AA_%D7%A4%D7%A8%D7%95%D7%A7%D7%A1%D7%99" target="_blank" rel="noopener noreferrer">פרוקסי</a> חיבור חדש לגמריי</h2>
-<p class="align-right">אנו נרגשים להכריז על השקת מערכת <a href="https://he.wikipedia.org/wiki/%D7%A9%D7%A8%D7%AA_%D7%A4%D7%A8%D7%95%D7%A7%D7%A1%D7%99" target="_blank" rel="noopener noreferrer">הפרוקסי</a> החדשה שלנו עבור רשת שרתי המיינקראפט שלנו מערכת זו מאפשרת לשחקנים להתחבר בצורה חלקה למספר שרתים בתוך הרשת, ומאפשרת להם <a href="https://www.spigotmc.org/wiki/bungeecord/" target="_blank" rel="noopener noreferrer">Bungeecord</a>לעבור בין שרתים מבלי להתנתק ולהתחבר מחדש. בדומה ל<br>מערכת <a href="https://he.wikipedia.org/wiki/%D7%A9%D7%A8%D7%AA_%D7%A4%D7%A8%D7%95%D7%A7%D7%A1%D7%99" target="_blank" rel="noopener noreferrer">הפרוקסי</a> שלנו מקלה ונוחה יותר לשחקנים לשחק עם חברים ולחקור אזורים שונים ברשת מערכת חדשה זו תשפר מאוד את חווית השחקנים בשרתי המיינקראפט שלנו ותהפוך את זה למהנה עוד יותר להיות חלק מהקהילה שלנו</p>
-<p class="align-right">מאפשרת מגוון תכונות חזקות ונוחות <a href="https://www.spigotmc.org/wiki/bungeecord/" target="_blank" rel="noopener noreferrer">Bungeecord</a>מערכת <a href="https://he.wikipedia.org/wiki/%D7%A9%D7%A8%D7%AA_%D7%A4%D7%A8%D7%95%D7%A7%D7%A1%D7%99" target="_blank" rel="noopener noreferrer">הפרוקסי</a> החדשה שלנו, בדומה ל<br>עבור רשת שרתי המיינקראפט שלנו</p>
-<h4 class="align-right">מעבר אינבטורי בין שרתים וקבוצות שרתים</h4>
-<p class="align-right">אחד היתרונות המרכזיים של מערכת זו הוא היכולת לסנכרן מלאי(אינבנטורי) שחקנים בין שרתים, מה שמאפשר לשחקנים לנוע בחופשיות בין עולמות שונים ולשמור על הפריטים שלהם ולהתקדם איתם</p>
-<h4 class="align-right"><a href="https://en.wikipedia.org/wiki/Deep_packet_inspection" target="_blank" rel="noopener noreferrer">Smart Packets Check</a> - מערכת בדיקת פקטים\<a href="https://he.wikipedia.org/wiki/%D7%AA%D7%A7%D7%A9%D7%95%D7%A8%D7%AA_%D7%A0%D7%AA%D7%95%D7%A0%D7%99%D7%9D" target="_blank" rel="noopener noreferrer">מנות</a> </h4>
-<p class="align-right">המערכת הזאת שבודקת <a href="https://he.wikipedia.org/wiki/%D7%AA%D7%A7%D7%A9%D7%95%D7%A8%D7%AA_%D7%A0%D7%AA%D7%95%D7%A0%D7%99%D7%9D" target="_blank" rel="noopener noreferrer">מנות</a> לפני פענוחן בהתבסס על גודל וקצב מבוססי זמן, ועוזרת במניעת התקפות בוטים והפחתת השימוש במעבד<br>(<a href="https://he.wikipedia.org/wiki/Iptables" target="_blank" rel="noopener noreferrer">IPTables</a>) "בנוסף, מערכת <a href="https://he.wikipedia.org/wiki/%D7%A9%D7%A8%D7%AA_%D7%A4%D7%A8%D7%95%D7%A7%D7%A1%D7%99" target="_blank" rel="noopener noreferrer">הפרוקסי</a> כוללת אפשרות לבדיקת <a href="https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%9E%D7%AA_%D7%90%D7%A9" target="_blank" rel="noopener noreferrer">חומת אש</a>, וכן בדיקת כינוי עם "רשימה<br><br>תכונות אלו, יחד עם שיפורים בכוח העיבוד במהלך התקפות בוטים והיכולת לתקן סוגי התקפות מתח חדשים, הופכים את מערכת <a href="https://he.wikipedia.org/wiki/%D7%A9%D7%A8%D7%AA_%D7%A4%D7%A8%D7%95%D7%A7%D7%A1%D7%99" target="_blank" rel="noopener noreferrer">הפרוקסי</a> לכלי חיוני לשיפור האבטחה והחוויה של השחקנים בשרתי המיינקראפט שלנו</p>
-<h4 class="align-right">מערכת התרגום החדשה והמעודכנת</h4>
-<p class="align-right">אנו שמחים להכריז על השקת מערכת התרגום החדשה שלנו, המאפשרת לנו לתרגם את שרתי המיינקראפט שלנו למספר שפות ומאפשרת לשחקנים להחליף שפות בצורה חלקה <br>מערכת זו היא צעד גדול קדימה בהפיכת הקהילה שלנו ליותר מכילה ונגישה לשחקנים מכל רחבי העולם עם המערכת הזו, שחקנים יכולים לבחור לשחק בשפה המועדפת עליהם ללא שום פשרות מבחינת משחק או ביצועים<br>בין אם אתם דוברי שפת אם של שפה מסוימת או סתם רוצים לתרגל ולשפר את כישוריכם, מערכת התרגום שלנו מקלה על תקשורת וחיבור עם שחקנים אחרים בשפה המועדפת עליכם</p>
-<h2 class="align-right">מערכת אלפיין</h2>
-<p class="align-right">API אנו נרגשים להכריז כי אלפיין ו-אלפיין <br>החדשים שלנו נמצאים כעת בסיום בפיתוח, ואנו מקווים לשחרר אותם ברבעון השני או הרבעון הראשון של 2023<br>הכלים החזקים הללו יאפשרו לנו ליצור משגר משחקים מתקדם המשפר את אספקת העדכונים ומפשט את תהליך חיבור לרשת השרתים שלנו על פני מספר משחקים, כולל מיינקראפט, פייבאם ו-ראסט<br>עם אלפיין, מאפשר לכל אחד מהשחקנים להצטרף בקלות לכל אחד מהשרתים שלנו בלחיצה אחת בלבד, ללא קשר לאיזה משחק הם משחקים. בנוסף, מערכת אלפיין תכלול את הקורליס, אשר משפרת מאוד את האבטחה והביצועים בשרתי מיינקראפט אם טקסטורות כבדות כמו שלנו או של המתחרים שלנו בין אם אתה גיימרים תחרותי שמחפש חיבור חלק וחלק לשרתים, או סתם רוצים דרך קלה להצטרף לשרתים שלנו, מערכת אלפיין תתאג לך<br>אז הישארו מעודכנים לקבלת עדכונים ומידע נוספים בזמן שאנו ממשיכים לעבוד על הבאת התוספת החדשה והמרגשת הזו שנמצאת בפיתוח למעלה משנה שלמה</p>
-<h3 class="align-right">מערכת האוטומציה החדשה</h3>
-<p class="align-right">מערכת אוטומציה חדשה שהוטמעה בשרתים שלנו המאפשרת לנו לשפר מאוד את היעילות שלנו ולחסוך זמן רב על ידי אוטומציה של משימות ותהליכים שונים. מערכת זו מאפשרת לנו לייעל רבות מהמשימות השגרתיות והחוזרות שנעשו בעבר באופן ידני, ולפנות יותר זמן ומשאבים להתמקד בפרויקטים ויוזמות חדשות. מערכת האוטומציה גם סייעה לנו להפחית את הסיכון לשגיאות ולשפר את הדיוק והאמינות של התהליכים שלנו. בסך הכל, מערכת חדשה זו הייתה תוספת חשובה ותמשיך לעזור לנו להגיע לרמות גבוהות עוד יותר של הצלחה ומצוינות בעתיד</p>
-<h3 class="align-right">מערכת בדיקות לאינטגרציה רציפה/פריסה רציפה</h3>
-<p class="align-right">היא פרקטיקת פיתוח תוכנה המשלבת שינויים בקוד באופן קבוע (<a href="https://he.wikipedia.org/wiki/CI/CD" target="_blank" rel="noopener noreferrer">CI/CD</a>)אינטגרציה/פריסה רציפה ופורסת אותם באופן אוטומטי לסביבות ייצור<br>זה עוזר להבטיח ששינויי קוד משולבים במהירות ובצורה חלקה בבסיס הקוד הראשי, ושתכונות ועדכונים חדשים יסופקו למשתמשים ברגע שהם מוכנים<br>חיונית מכיוון שהיא עוזרת להאיץ את תהליך הפיתוח ,(<a href="https://he.wikipedia.org/wiki/CI/CD" target="_blank" rel="noopener noreferrer">CI/CD</a>)אינטגרציה/פריסה רציפה<br>לשפר את האיכות והאמינות של הקוד ולהפחית את הסיכון לשגיאות וזמני השבתה<br>זה גם מקל על צוותים לשתף פעולה ולעבוד יחד ומאפשר שחרורים מהירים ותכופים יותר של תכונות ועדכונים חדשים<br>מערכת לסוג העבודה הזה עזר לנו לשפר את איכות השירות שלנו ואת מיהירות הפיתוח שלנו</p>
-<h2 class="align-right">לסיכום</h2>
-<p class="align-right">בעודנו מסתכלים קדימה לשנה החדשה, אנו נרגשים מכל התכונות החדשות והעדכוני שרת המצוינים עבור קהילת המשחקים שלנו<br>בין אם אתם גיימרים תחרותים שמעוניינים לשפר את כישוריכם, או סתם מחפשים מקום מהנה ומסביר פנים להתחבר עם שחקנים אחרים, יש לנו משהו לכולם<br>אנו מחויבים לשיפור מתמיד ולשפר את חווית השחקן, ואנחנו לא יכולים לחכות לשתף אתכם בכל ההתפתחויות והעדכונים החדשים<br>אז לפניכם שנה חדשה ומרגשת, מלאה באתגרים והזדמנויות חדשות בקהילת הגיימינג הכי מתקדמת בישראל</p>
-<p> </p>
             ]]>
         </content>
     </entry>
